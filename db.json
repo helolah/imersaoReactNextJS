@@ -1,0 +1,22 @@
+{
+    "bg": "https://cdn.wccftech.com/wp-content/uploads/2019/02/dead_by_daylight.jpg",
+    "title": "DEAD BY DAYLIGHT",
+    "description": "A quiz made with React JS + Next JS + Style Components about the game Dead By Daylight",
+    "questions": [
+
+    ],
+    "external": [
+
+    ],
+    "theme": {
+        "colors": {
+            "primary": "#E2CE97", 
+            "secondary": "#2B2B3B",
+            "contrastText": "#FFFFFF",
+            "background": "#0B0B0B",
+            "wrong": "#FF5722",
+            "sucess": "4CAF50"
+        },
+    "borderRadius": "5px"
+    }
+}
