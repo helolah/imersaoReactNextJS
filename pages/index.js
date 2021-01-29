@@ -21,18 +21,18 @@ import QuizBackground from '../src/components/QuizBackground/index.js'
 
 export const GlassCard = styled.div`
   width: 100%;
-  max-width: 350px;
+  max-width: 400px;
   margin: 0 auto;
   background-color: rgba(255,255,255,0.1);
   box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
   border-radius: 5px;
   backdrop-filter: blur(5px);
-  transform: translateY(50%); 
+  transform: translateY(25%); 
 `
 
 export const QuizContainer = styled.div`
   width: 100%;
-  max-width: 350px;
+  max-width: 400px;
   padding: 15px;
   margin: 0 auto;
 
