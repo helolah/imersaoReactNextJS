@@ -14,6 +14,7 @@ const Widget = styled.div`
     line-height: 1;
     margin-bottom: 0;
     color: ${({ theme }) => theme.colors.primary};
+    text-align: center;
   }
 
   p {
@@ -32,7 +33,7 @@ Widget.Header = styled.header`
     background-color: ${({ theme }) => theme.colors.secondary};
 
     * {
-    margin: 0;
+      margin: 0;
     }
 `
 

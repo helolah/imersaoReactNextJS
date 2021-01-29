@@ -40,6 +40,8 @@ export default function Footer(props) {
         <a href="https://www.alura.com.br/">
           <span>Imersão React da Alura</span>
         </a>
+        <br></br><br></br>
+        <span>Heloisa Fernanda &copy; 2021.</span>
       </p>
     </FooterWrapper>
   );
